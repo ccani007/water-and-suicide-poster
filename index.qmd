@@ -27,7 +27,7 @@ This website serves as a digital companion to our SRCD 2025 conference presentat
     <div class="author-card">
         <h3>Catalina Canizares</h3>
         <p>Steinhardt School of Culture, Education, and Human Development, New York University</p>
-        <p><a href="https://steinhardt.nyu.edu/people/catalina-canizares" target="_blank">NYU Profile</a></p>
+        <p><a href="https://steinhardt.nyu.edu/people/catalina-canizares" target="_blank">Profile</a></p>
     </div>
     
     <div class="author-card">
@@ -39,7 +39,7 @@ This website serves as a digital companion to our SRCD 2025 conference presentat
     <div class="author-card">
         <h3>Pamela Morris-Perez</h3>
         <p>Steinhardt School of Culture, Education, and Human Development, New York University</p>
-        <p><a href="https://steinhardt.nyu.edu/people/pamela-morris-perez" target="_blank">NYU Profile</a></p>
+        <p><a href="https://steinhardt.nyu.edu/people/pamela-morris-perez" target="_blank">Profile</a></p>
     </div>
 </div>
 ```
