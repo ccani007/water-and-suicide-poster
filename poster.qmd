@@ -6,9 +6,9 @@ title: "Conference Poster"
 Below you can view and download my conference poster for the SRCD 2025 conference.
 
 ```{=html}
-<iframe src="poster_title.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="poster_less_text.pdf" width="100%" height="800px" style="border: none;"></iframe>
 ```
 
 ## Download Options
 
-You can download the poster by clicking [here](poster_title.pdf). 
+You can download the poster by clicking [here](poster_less_text.pdf). 
