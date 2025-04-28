@@ -1,0 +1,73 @@
+---
+title: ""
+toc: false
+---
+
+```{=html}
+<div class="nyu-header">
+    <img src="img/arcadia.png" alt="Arcadia Logo" class="nyu-logo">
+    <h1 style="display: inline-block; margin: 0;">Welcome to our Supplemental Materials for our Poster at SRCD 2025</h1>
+</div>
+```
+
+This website contains our research poster and associated references.
+
+## About This Project
+
+This website serves as a digital companion to our SRCD 2025 conference presentation. Here you will find:
+
+- Our research poster
+- Complete list of references
+- Additional resources and materials
+
+## Authors
+
+```{=html}
+<div class="authors-section">
+    <div class="author-card">
+        <h3>Catalina Canizares</h3>
+        <p>Steinhardt School of Culture, Education, and Human Development, New York University</p>
+        <p><a href="https://steinhardt.nyu.edu/people/catalina-canizares" target="_blank">NYU Profile</a></p>
+    </div>
+    
+    <div class="author-card">
+        <h3>Francisco Cardozo</h3>
+        <p>School of Medicine, University of Miami</p>
+        <p><a href="https://focardozom.github.io/" target="_blank">Profile</a></p>
+    </div>
+    
+    <div class="author-card">
+        <h3>Pamela Morris-Perez</h3>
+        <p>Steinhardt School of Culture, Education, and Human Development, New York University</p>
+        <p><a href="https://steinhardt.nyu.edu/people/pamela-morris-perez" target="_blank">NYU Profile</a></p>
+    </div>
+</div>
+```
+
+## Contact
+
+For any questions about this research, please feel free to reach out. 
+
+```{=html}
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; margin: 20px 0; text-align: center;">
+    <p style="margin: 0; font-family: 'Courier New', monospace; font-size: 1.1em;">
+        <a href="mailto:cc9082@nyu.edu" style="text-decoration: none; color: #0066cc;">📧 cc9082@nyu.edu</a>
+        <br>
+        <small style="color: #666;">(Click to copy or email)</small>
+    </p>
+</div>
+```
+
+```{=html}
+<div class="arcadia-footer">
+    <a href="https://www.arcadiasuicideprevention.com/" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="img/arcadia.png" alt="Arcadia Logo" class="arcadia-logo">
+        <p>ARCADIA - A Research Center for ADolescent Interconnected Approaches for Suicide Prevention</p>
+    </a>
+</div>
+```
+
+
+
+
+

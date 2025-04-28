@@ -1,0 +1,22 @@
+---
+title: "References"
+bibliography: references.bib
+csl: apa.csl
+nocite: |
+  @howarth2020
+  @bae2005
+  @baiden2020
+  @cipriani2013
+  @eyre2022
+  @fabiano2023
+  @franklin2017risk
+  @jacob2020
+  @memon2020
+  @rioux2021
+  @sarai2018lithium
+  @perez2021
+---
+
+
+::: {#refs}
+:::
